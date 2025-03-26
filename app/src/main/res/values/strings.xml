@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Luminor</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="re_password">Re-Password</string>
+    <string name="login">Login</string>
+    <string name="register">Registration</string>
+    <string name="authentication">Authentication</string>
+    <string name="invalid_email">Invalid email</string>
+    <string name="password_error">Password Error</string>
+    <string name="warning">Warning</string>
+    <string name="registration">Registration</string>
+    <string name="user_registered_successfully">User registered successfully.</string>
+    <string name="logout">Logout</string>
+</resources>
